@@ -1,7 +1,7 @@
 # Linear Search
  
-## Installation
-How it works
+
+## How it works
 
  ```bash
 -Start from the leftmost element of arr[] and one by one compare x with each element of arr[]
